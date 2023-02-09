@@ -1,2 +1,2 @@
-# Django
-Django 웹 서버 만들기
+# Baseball
+야구 프로젝트
